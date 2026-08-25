@@ -1,0 +1,1 @@
+Estos archivos son progresivos, la progreción de estos programas son en base a una evolución de configuración del chat con Ollama, es decir que poco a poco se le van agregando cosas con las cuales interactuar
